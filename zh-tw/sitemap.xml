@@ -3,119 +3,119 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/zh-tw/categories/</loc>
+    <loc>https://okadath.github.io/zh-tw/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://okadath.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://okadath.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/categories/"
+                href="https://okadath.github.io/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/categories/"
+                href="https://okadath.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/"
+                href="https://okadath.github.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/categories/"
+                href="https://okadath.github.io/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/categories/"
+                href="https://okadath.github.io/zh-tw/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/zh-tw/</loc>
+    <loc>https://okadath.github.io/zh-tw/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://okadath.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://okadath.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/"
+                href="https://okadath.github.io/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/"
+                href="https://okadath.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/"
+                href="https://okadath.github.io/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/"
+                href="https://okadath.github.io/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/"
+                href="https://okadath.github.io/zh-tw/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/zh-tw/tags/</loc>
+    <loc>https://okadath.github.io/zh-tw/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://okadath.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://okadath.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/"
+                href="https://okadath.github.io/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/"
+                href="https://okadath.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/"
+                href="https://okadath.github.io/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/tags/"
+                href="https://okadath.github.io/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/tags/"
+                href="https://okadath.github.io/zh-tw/tags/"
                 />
   </url>
   

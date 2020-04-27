@@ -3,171 +3,171 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/es/blog/</loc>
+    <loc>https://okadath.github.io/es/blog/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/blog/"
+                href="https://okadath.github.io/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/blog/"
+                href="https://okadath.github.io/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/blog/"
+                href="https://okadath.github.io/es/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/es/tags/emoji/</loc>
+    <loc>https://okadath.github.io/es/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/emoji/"
+                href="https://okadath.github.io/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/emoji/"
+                href="https://okadath.github.io/es/tags/emoji/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/es/blog/emoji-support/</loc>
+    <loc>https://okadath.github.io/es/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/blog/emoji-support/"
+                href="https://okadath.github.io/blog/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/blog/emoji-support/"
+                href="https://okadath.github.io/es/blog/emoji-support/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/es/</loc>
+    <loc>https://okadath.github.io/es/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://okadath.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://okadath.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/"
+                href="https://okadath.github.io/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/"
+                href="https://okadath.github.io/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/"
+                href="https://okadath.github.io/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/"
+                href="https://okadath.github.io/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/"
+                href="https://okadath.github.io/es/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/es/tags/</loc>
+    <loc>https://okadath.github.io/es/tags/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://okadath.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://okadath.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/"
+                href="https://okadath.github.io/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/"
+                href="https://okadath.github.io/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/tags/"
+                href="https://okadath.github.io/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/tags/"
+                href="https://okadath.github.io/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/"
+                href="https://okadath.github.io/es/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/es/categories/</loc>
+    <loc>https://okadath.github.io/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://okadath.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://okadath.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/categories/"
+                href="https://okadath.github.io/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/"
+                href="https://okadath.github.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/categories/"
+                href="https://okadath.github.io/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/categories/"
+                href="https://okadath.github.io/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/categories/"
+                href="https://okadath.github.io/es/categories/"
                 />
   </url>
   
